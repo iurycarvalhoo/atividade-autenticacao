@@ -1,0 +1,23 @@
+#details {
+    width: 60%;
+    margin: auto;
+    text-align: center;
+}
+
+#details h1 {
+    font-family: 'bold';
+}
+
+#details a {
+    display: inline-block;
+    width: 100px;
+    padding: 10px 0;
+    text-align: center;
+    margin-bottom: 10px;
+    text-decoration: none;
+    background-color: #03a678;
+    color: white;
+    font-family: 'bold';
+    font-size: 120%;
+    border-radius: 10px;
+}
